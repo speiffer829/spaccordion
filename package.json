@@ -1,0 +1,22 @@
+{
+  "name": "spaccordion",
+  "version": "1.0.0",
+  "description": "a simple headless accordion",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/speiffer829/spaccordion.git"
+  },
+  "keywords": [
+    "accordion"
+  ],
+  "author": "tater-of-tots",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/speiffer829/spaccordion/issues"
+  },
+  "homepage": "https://github.com/speiffer829/spaccordion#readme"
+}
