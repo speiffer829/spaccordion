@@ -1,6 +1,6 @@
 {
   "name": "spaccordion",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "a simple headless accordion",
   "main": "index.js",
   "scripts": {
