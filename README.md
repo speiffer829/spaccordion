@@ -1,7 +1,9 @@
 # Spaccordion
 
 ## Setup
-`npm install spaccordion`
+```bash
+npm install spaccordion
+```
 
 
 ### Minimum Markup
